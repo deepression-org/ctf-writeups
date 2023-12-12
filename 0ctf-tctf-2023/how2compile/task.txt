@@ -1,0 +1,4 @@
+The flag is in HIR/MIR/LIR
+
+nc chall.ctf.0ops.sjtu.cn 30002
+

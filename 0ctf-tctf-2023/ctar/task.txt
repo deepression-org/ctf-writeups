@@ -1,0 +1,1 @@
+nc chall.ctf.0ops.sjtu.cn 30001

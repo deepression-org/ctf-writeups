@@ -1,0 +1,8 @@
+I wrote yet another new diary website for myself! Wait, someone keeps reporting something to me? Let me create a bot to save my life...
+
+Challenge: http://new-diary.ctf.0ops.sjtu.cn/
+
+Source: https://s3.jcloud.sjtu.edu.cn/962eeeff2d0148c1b17df3c8225da79a-ctf/newdiary_e52f7db7c5864cf32ae33adbe50ba4f4.zip
+
+The original code is from Codegate 2023. The original author in the package.json @as3617 is not involved in this challenge. The solution is completely different so you do not need to worry about not attending the prior competition!
+
