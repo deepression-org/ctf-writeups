@@ -1,0 +1,4 @@
+
+Too many admins spoil the broth. Can you login as the right admin and get the flag ?
+
+http://34.132.132.69:8000/
